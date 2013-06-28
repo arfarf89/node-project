@@ -1,0 +1,14 @@
+{
+	"name": "legendary",
+	"description": "legendary test app",
+	"version": "0.0.1",
+	"private": "true",
+	"dependencies": {
+		"express": "3.x",
+		"mongodb": "1.x",
+		"swig": "0.x",
+		"consolidate": "0.x",
+		"colors": "0.x",
+		"mongoose": "3.x"
+	}
+}
